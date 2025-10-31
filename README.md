@@ -76,7 +76,6 @@ Building GenAI solutions and data platforms for enterprise clients. Architecting
 
 ## 📊 GitHub Stats
 
-![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=akashs101199&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akashs101199&layout=compact&theme=tokyonight&hide_border=true)
 
 ## 🎯 What I'm Learning Next
