@@ -24,10 +24,7 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/akash101199/)
 - 📧 akashs101199@gmail.com
 - 🌍 Based in Cary, NC | Open to Work
-
-## 📊 GitHub Stats
-![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=akashs101199&show_icons=true&theme=radical)
-
+- 
 ---
 
 💡 **Currently seeking:** Full-time Data Engineering, AI/ML Engineering, or GenAI Engineering roles
