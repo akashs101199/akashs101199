@@ -24,7 +24,6 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/akash101199/)
 - 📧 akashs101199@gmail.com
 - 🌍 Based in Cary, NC | Open to Work
-- 
 ---
 
 💡 **Currently seeking:** Full-time Data Engineering, AI/ML Engineering, or GenAI Engineering roles
