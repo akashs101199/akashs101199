@@ -1,111 +1,169 @@
-# Hi, I'm Akash 👋
+# 🤖 Akash Shanmuganathan | Agentic AI Engineer
 
-**AWS-Certified Data & GenAI Engineer** building production AI systems with real business impact.
-
-## 🧠 My Learning Philosophy
-
-I'm a **hands-on learner** who believes the best way to understand technology is to build with it. Whenever I discover a new tool, framework, or concept, I don't just read the docs—I build a POC or small project to truly understand its capabilities and limitations. 
-
-**This GitHub is my learning lab** 🔬—a collection of experiments, POCs, and production-inspired projects that showcase what I've learned and how I apply new technologies to solve real problems.
-
-## 🚀 What I'm Currently Building
-
-- **Production Marketing Analytics AI platform** (AWS Bedrock + RAG + QuickSight)  
-  *Conversational analytics enabling natural language queries over multi-channel campaign data*
-
-- **Agentic AI systems** using LangChain and AWS Bedrock  
-  *Multi-step reasoning agents with tool integration and autonomous decision-making*
-
-- **Real-time data pipelines** processing 500K+ records/day  
-  *Event-driven ETL architecture with automated quality validation*
-
-## 💼 Current Role
-
-**Data & AI Engineer** @ Onedata Software Solutions (AWS Advanced Partner)
-
-Building GenAI solutions and data platforms for enterprise clients. Architecting end-to-end systems from data ingestion through AI-powered analytics.
-
-## 🛠️ Tech Stack
-
-**GenAI & AI:** AWS Bedrock (Claude, Nova, Titan), LangChain, RAG Architecture, Vector DBs (FAISS, S3), Prompt Engineering, Multi-Agent Systems  
-
-**Data Engineering:** Python, SQL, PySpark, Apache Spark, AWS (Glue, Lambda, S3, Redshift, Athena, Step Functions), Apache Airflow, dbt, ETL/ELT  
-
-**Cloud & Infrastructure:** AWS (certified), Serverless Architecture, Event-Driven Systems, FastAPI, RESTful APIs  
-
-**Analytics & Visualization:** AWS QuickSight, Tableau, Streamlit, Plotly
-
-## 🏆 Certifications
-
-- ✅ **AWS Certified Data Engineer – Associate** (DEA-C01)
-- 🔄 **AWS Certified Generative AI Developer – Professional** (In Progress)
-
-## 📚 Featured Learning Projects
-
-> *Each project represents a technology or concept I wanted to deeply understand through hands-on experimentation*
-
-### 🤖 [AI Scheduler Chat Bot](https://github.com/akashs101199/Ai-Scheduler-Chat-Bot)
-**Learning Goal:** Master LangChain agents, multi-step reasoning, and calendar API integration  
-**Tech:** LangChain, AWS Bedrock, FastAPI, RAG  
-**Outcome:** Production-ready scheduling agent with 94% booking accuracy
-
-### 💳 [AI Fintech Credit Risk Analytics](https://github.com/akashs101199/ai-fintech-credit-risk-DataAnalytics)
-**Learning Goal:** Build end-to-end ML platform with explainability and real-time fraud detection  
-**Tech:** Python, Scikit-learn, SHAP, Streamlit, AWS  
-**Outcome:** Full ML pipeline with interactive dashboards and model interpretability
-
-### 💬 [Ask My Code - GenAI](https://github.com/akashs101199/ask-my-code-gen-ai)
-**Learning Goal:** Implement RAG for code understanding and exploration  
-**Tech:** AWS Bedrock, Vector Embeddings, LangChain  
-**Outcome:** Natural language code assistant with semantic search
-
-### 🚗 [Real-Time Ride Analytics](https://github.com/akashs101199/real-time-ride-analytics)
-**Learning Goal:** Master stream processing and real-time analytics architecture  
-**Tech:** Apache Kafka, Spark Streaming, Python  
-**Outcome:** Scalable streaming pipeline for ride-sharing analytics
-
-### ✅ [Data Validation Engine](https://github.com/akashs101199/data-validation-engine)
-**Learning Goal:** Build automated data quality framework for production pipelines  
-**Tech:** Python, Great Expectations, SQL  
-**Outcome:** Reusable validation framework ensuring 99%+ pipeline reliability
-
-### 🌐 [Personal Portfolio](https://github.com/akashs101199/personal_portfolio)
-**Learning Goal:** Modern web development and responsive design  
-**Tech:** HTML, CSS, JavaScript  
-**Outcome:** Professional portfolio showcasing projects and experience
-
-## 📊 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akashs101199&layout=compact&theme=tokyonight&hide_border=true)
-
-## 🎯 What I'm Learning Next
-
-- 🧪 **Multi-agent orchestration** patterns with LangGraph
-- 🎤 **Voice AI** with AWS Nova Sonic
-- 🔧 **LLM fine-tuning** techniques (LoRA, QLoRA)
-- 📈 **LLMOps** and prompt versioning frameworks
-- 🔐 **AI safety patterns** with AWS Bedrock Guardrails
-
-## 🔍 Open to Work
-
-Actively seeking full-time opportunities in:
-- 🎯 **Data Engineering** - Building scalable data platforms and pipelines
-- 🤖 **AI/ML Engineering** - Deploying production ML systems
-- 💡 **GenAI Engineering** - Architecting RAG systems and agentic AI workflows
-- 🚀 **Solutions Engineering** - Technical pre-sales and customer-facing engineering
-
-## 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash101199/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akashs101199@gmail.com)
-[![Location](https://img.shields.io/badge/Location-Cary%2C%20NC-blue?style=for-the-badge&logo=google-maps&logoColor=white)](https://www.google.com/maps/place/Cary,+NC)
+[![AWS Certified](https://img.shields.io/badge/AWS-Certified%20Data%20Engineer-FF9900?style=flat-square&logo=amazon-aws)](https://www.credly.com/badges/)
+[![GenAI Developer](https://img.shields.io/badge/GenAI-Developer%20Professional-blue?style=flat-square)](#)
+[![Open to Opportunities](https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen?style=flat-square)](#)
 
 ---
 
-<div align="center">
-  
-💡 **"Learning by building, one project at a time"**
+## 🎯 About Me
 
-*Every repo here represents a question I asked and answered through code*
+Hi! I'm an **AWS-certified Agentic AI Engineer** at **Onedata Software Solutions** (AWS Advanced Partner), building production-grade AI systems that drive measurable business impact. I specialize in designing and deploying **multi-agent AI platforms** with cutting-edge technologies like Amazon Nova, AWS Bedrock, and Model Context Protocol (MCP).
 
-</div>
+**Currently architecting:** 4-agent enterprise AI platform delivering **60% latency improvements** and **sub-3 second query performance** for real-time business intelligence.
+
+🔗 **Connect:** [LinkedIn](https://linkedin.com/in/akash101199) | [Email](mailto:akashs101199@gmail.com) | [Phone](tel:+18576938403)
+
+---
+
+## 💼 Current Role: Agentic AI Engineer @ Onedata
+
+**Sep 2025 – Present** | Fort Mill, SC
+
+### Key Achievements
+
+**🏗️ Multi-Agent AI Platform Development**
+- Architected **4-agent enterprise AI system** using AgentCore framework & Model Context Protocol
+- Achieved **60% latency reduction** with **<3 second sub-queries** and **99% intent accuracy**
+- Orchestrated **sequential, parallel, and AI-powered planning execution** across distributed concurrent sessions
+- Response time optimization: **8 seconds → 2 seconds** across all agents
+
+**🎙️ Voice-First Analytics Interface**
+- Built **real-time conversational AI** using Amazon Nova Sonic with bidirectional streaming
+- Enabled **concurrent voice sessions** with **<300ms latency** for natural language queries
+- Processed audio streams at production scale for seamless analytics interactions
+
+**📊 Enterprise Data Architecture**
+- Engineered **medallion data lake** (Bronze-Silver-Gold) using AppFlow, S3 & Glue
+- Processing **500K+ daily marketing records** with **99.7% freshness** for real-time agent workflows
+- Built automated ETL pipelines with quality validation ensuring 99% uptime
+
+**🔍 Semantic Search & RAG Pipeline**
+- Implemented **semantic search** using Bedrock Titan Embeddings & S3 Vector databases
+- Achieved **99% recall, 94% response accuracy** with 5-minute ETL caching
+- Optimized baseline context for production performance
+
+**📈 AI-Powered Dashboard Generation**
+- Developed **natural language to visualization** conversion system
+- Average creation time: **30 seconds** through intelligent agent orchestration
+- Transformed analytics query performance from **15 minutes → <30 seconds**
+
+**🎤 Customer Success & Thought Leadership**
+- Led technical consulting for **enterprise POCs** at multiple AWS events
+- Delivered **live demonstrations** of agentic AI capabilities for stakeholder approval
+- Secured **production deployment green light** through compelling interactive presentations
+
+---
+
+## 🛠️ Tech Stack
+
+### 🤖 **Agentic AI & GenAI**
+- **Models:** Amazon Nova (Sonic, Pro), Claude 3.x, Amazon Titan
+- **Frameworks:** AWS Bedrock, Bedrock Agents, LangChain, AgentCore, Model Context Protocol (MCP)
+- **Capabilities:** Multi-agent orchestration, RAG architecture, function calling, prompt engineering, conversational AI
+- **Vector Databases:** Faiss, S3-based vector storage, semantic search
+
+### ☁️ **AWS Cloud & Data Engineering**
+- **Core Services:** S3, Glue, Athena, Lambda, Step Functions, RDS, Redshift, AppFlow
+- **Architecture:** Medallion architecture (Bronze-Silver-Gold), event-driven pipelines, serverless design
+- **Data Processing:** PySpark, SQL, real-time streaming, ETL/ELT optimization
+- **Monitoring:** CloudWatch, EventBridge, IAM, SNS/SQS
+
+### 💻 **Development & DevOps**
+- **Languages:** Python, JavaScript/Node.js, SQL
+- **Frameworks:** FastAPI, Express.js
+- **Infrastructure:** AWS CDK, Infrastructure as Code (IaC), CI/CD with GitHub Actions
+- **Tools:** Docker, Redis, Git, GitHub Copilot, Cursor IDE
+
+### 📊 **Analytics & BI**
+- AWS QuickSuite, QuickSight, Tableau, Streamlit, Plotly
+
+---
+
+## 🏆 Certifications & Credentials
+
+✅ **AWS Certified Data Engineer – Associate** (DEA-C01)  
+🔄 **AWS Certified Generative AI Developer – Professional** (In Progress)  
+⭐ **AWS Advanced Partner** (via Onedata Software Solutions)
+
+---
+
+## 📚 Featured Projects & Learning Labs
+
+Each project below represents deep technical exploration and production-inspired development:
+
+### 🤖 [AI Scheduler Chat Bot](https://github.com/akashs101199/Ai-Scheduler-Chat-Bot)
+**Multi-step reasoning agent with calendar integration**
+- **Tech:** LangChain agents, AWS Bedrock, FastAPI, RAG, calendar APIs
+- **Outcome:** Production-ready scheduling agent achieving **94% booking accuracy**
+- **Learning:** Master LangChain agents, multi-step reasoning, tool integration
+
+### 💳 [AI Fintech Credit Risk Analytics](https://github.com/akashs101199/ai-fintech-credit-risk-DataAnalytics)
+**End-to-end ML platform with explainability**
+- **Tech:** Python, Scikit-learn, SHAP, Streamlit, AWS
+- **Outcome:** Full ML pipeline with interactive dashboards and model interpretability
+- **Learning:** Build production ML systems with real-time fraud detection
+
+### 🔍 [Ask My Code – GenAI](https://github.com/akashs101199/ask-my-code-gen-ai)
+**RAG-powered code assistant**
+- **Tech:** AWS Bedrock, Vector Embeddings, LangChain, semantic search
+- **Outcome:** Natural language code search and understanding
+- **Learning:** Implement RAG for code comprehension at scale
+
+### 🚗 [Real-Time Ride Analytics](https://github.com/akashs101199/real-time-ride-analytics)
+**Stream processing and real-time dashboards**
+- **Tech:** Apache Kafka, Spark Streaming, Python
+- **Outcome:** Scalable streaming pipeline for ride-sharing analytics
+- **Learning:** Master stream processing and real-time data architecture
+
+### ✅ [Data Validation Engine](https://github.com/akashs101199/data-validation-engine)
+**Automated data quality framework**
+- **Tech:** Python, Great Expectations, SQL
+- **Outcome:** Reusable validation framework ensuring **99%+ pipeline reliability**
+- **Learning:** Build robust data quality systems for production
+
+---
+
+## 📊 Professional Experience Summary
+
+### **Data Engineer** @ Hexaware Technologies (2021–2023)
+- Migrated **200 SQL workloads** from on-premises to AWS (RDS, Redshift, Glue)
+- Achieved **30% cost reduction** and **45% performance improvement**
+- Built event-driven pipelines processing **10M daily records** with CDC integration
+- Designed automated dashboards for **21 QA teams** across 15 projects
+- Reduced financial reporting from 5 hours to 2 hours (**60% acceleration**)
+- Delivered **15+ technical presentations** to stakeholders on cloud migration
+
+---
+
+## 🎓 Education
+
+**M.S. in Engineering Management** | Northeastern University (2023–2025) | GPA: 3.75  
+**B.E. in Electrical & Electronics Engineering** | Anna University (2017–2021)
+
+---
+
+## 🚀 What I'm Looking For
+
+- 🤖 **Agentic AI roles** building next-generation autonomous systems
+- 💼 **ML/AI engineering** at scale in enterprise environments
+- 📊 **Data + AI** positions leveraging cutting-edge cloud platforms
+- 🌟 Opportunities to **lead technical initiatives** and mentor teams
+
+**Open to:** Full-time roles, contract/consulting, startup opportunities
+
+---
+
+## 📞 Let's Connect!
+
+I'm always excited to discuss:
+- 🤖 Agentic AI architecture and patterns
+- 🏗️ Enterprise data platform design
+- 📈 AI-driven business solutions
+- 💡 Technical mentorship and knowledge sharing
+
+**Reach out:** [akashs101199@gmail.com](mailto:akashs101199@gmail.com) | [+1 (857) 693-8403](tel:+18576938403)
+
+---
+
+*Last updated: November 2025 | Always learning, always building.*
