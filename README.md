@@ -25,15 +25,15 @@
 
 > *Building production-grade autonomous AI systems that think, adapt, and execute independently.*
 
-Senior AI/ML Engineer with **4+ years** specializing in **agentic systems architecture**, **LLM orchestration**, and **enterprise-scale data platforms**. Currently architecting production agentic AI systems at **Onedata Software Solutions** (AWS Advanced Partner) that process **500K+ daily records** with **99%+ accuracy**.
+Senior AI/ML Engineer with **4+ years** specializing in **agentic systems architecture**, **LLM orchestration**, and **enterprise-scale generative AI platforms**. Currently architecting production agentic AI systems at **Onedata Software Solutions** (AWS Advanced Partner) that process **500K+ daily records** with **99%+ accuracy**.
 
-**Core Expertise:** Multi-Agent Orchestration • RAG Architecture • Real-Time Streaming • Voice AI • Production ML Systems
+**Core Expertise:** Multi-Agent Orchestration • LLM Engineering • RAG Architecture • Voice AI • Production GenAI Systems
 
-**Current Impact:** 75% latency reduction • 98% faster analytics • 99% intent accuracy • $X million cost savings
+**Current Impact:** 75% latency reduction • 98% faster analytics • 99% intent accuracy • Autonomous self-healing systems
 
 ---
 
-## 🌟 Featured Open-Source Projects
+## 🌟 Featured Generative AI & Agentic Projects
 
 ### 🏗️ Agentic Data Engineering Platform
 **AI-powered data pipelines that fix themselves - Zero manual intervention**
@@ -51,7 +51,7 @@ Senior AI/ML Engineer with **4+ years** specializing in **agentic systems archit
 
 **The Problem:** Traditional data pipelines require 40-60% of engineering time for manual quality fixes, schema changes, and performance tuning.
 
-**The Solution:** An autonomous platform where 3 specialized AI agents continuously profile, monitor, and auto-remediate data issues 24/7.
+**The Solution:** An autonomous platform where 3 specialized AI agents continuously profile, monitor, and auto-remediate data issues 24/7 using LLM-powered reasoning.
 
 #### 🤖 Agent Architecture
 
@@ -61,6 +61,7 @@ Senior AI/ML Engineer with **4+ years** specializing in **agentic systems archit
 
 **🔍 Profiler Agent**
 - Auto-discovers 8 issue types
+- LLM-powered anomaly detection
 - Statistical analysis
 - Schema drift detection
 - Missing value patterns
@@ -73,6 +74,7 @@ Senior AI/ML Engineer with **4+ years** specializing in **agentic systems archit
 - Real-time scoring (0-100)
 - Multi-dimensional metrics
 - Trend tracking & alerts
+- Natural language explanations
 - Completeness: 95%+
 - Validity: 98%+
 
@@ -81,6 +83,7 @@ Senior AI/ML Engineer with **4+ years** specializing in **agentic systems archit
 
 **🔧 Remediation Agent**
 - ML-powered auto-fixes
+- LLM reasoning for context
 - Handles 23+ issue types
 - Audit trail logging
 - Validation before commit
@@ -95,9 +98,9 @@ Senior AI/ML Engineer with **4+ years** specializing in **agentic systems archit
 📥 Raw Data Sources
        ↓
 🥉 BRONZE Layer (Raw, Immutable)
-       ↓ [Profiler Agent scans]
+       ↓ [Profiler Agent scans with LLM analysis]
 🥈 SILVER Layer (Cleaned, Validated)
-       ↓ [Quality Agent monitors]
+       ↓ [Quality Agent monitors with GenAI insights]
 🥇 GOLD Layer (Business-Ready Aggregates)
        ↓
 📊 Analytics & Dashboards
@@ -116,6 +119,7 @@ Senior AI/ML Engineer with **4+ years** specializing in **agentic systems archit
 #### 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLM_Reasoning-000000?style=flat&logoColor=white)
 ![DuckDB](https://img.shields.io/badge/DuckDB-000000?style=flat&logoColor=FFF31A)
 ![Polars](https://img.shields.io/badge/Polars-CD792C?style=flat&logoColor=white)
 ![Prefect](https://img.shields.io/badge/Prefect-024DFD?style=flat&logoColor=white)
@@ -123,33 +127,15 @@ Senior AI/ML Engineer with **4+ years** specializing in **agentic systems archit
 ![Great Expectations](https://img.shields.io/badge/Great_Expectations-FF6F61?style=flat)
 ![Pandera](https://img.shields.io/badge/Pandera-150458?style=flat)
 
-#### 💡 Key Features
+#### 💡 Key GenAI Features
 
-- ✨ **Zero-Config Setup** - Works out of the box in 60 seconds
-- 🧠 **AI-Powered Insights** - Suggests optimizations automatically
-- 📈 **Real-Time Dashboards** - Live quality monitoring with drill-downs
-- 🔄 **Self-Healing** - Fixes issues before they reach production
-- 🎨 **Beautiful UI** - Interactive Streamlit interface
-- 📊 **Data Lineage** - Visual tracking of transformations
-- 🔍 **Comprehensive Logging** - Full audit trail
-
-#### 🚀 Quick Start
-```bash
-# Clone and setup
-git clone https://github.com/akashs101199/agentic-data-engineer.git
-cd agentic-data-engineer
-python -m venv venv && source venv/bin/activate
-pip install -r requirements.txt
-
-# Generate sample data with intentional quality issues
-python scripts/generate_sample_data.py
-
-# Run the autonomous pipeline
-python src/orchestration/prefect_flows.py
-
-# Launch interactive dashboard
-streamlit run dashboards/streamlit_medallion_app.py
-```
+- ✨ **LLM-Powered Insights** - Agents use natural language reasoning to understand data context
+- 🧠 **Intelligent Decision Making** - AI suggests optimizations based on data patterns
+- 📈 **Real-Time Dashboards** - Live quality monitoring with natural language explanations
+- 🔄 **Self-Healing** - Fixes issues before they reach production using GenAI reasoning
+- 🎨 **Natural Language Interface** - Query data quality status conversationally
+- 📊 **Auto-Documentation** - Generates human-readable data quality reports
+- 🔍 **Explainable AI** - Every fix comes with detailed reasoning
 
 #### 💼 Business Value
 
@@ -158,6 +144,9 @@ streamlit run dashboards/streamlit_medallion_app.py
 - **Proactive issue detection** before production impact
 - **Instant visibility** into data health across pipelines
 - **Reusable framework** across multiple projects
+- **Natural language insights** - Non-technical stakeholders understand data quality
+
+[🔗 View Full Project Details](https://github.com/akashs101199/agentic-data-engineer) | [🎮 Try Live Demo](https://agentic-data-engineer.streamlit.app)
 
 </details>
 
@@ -179,7 +168,7 @@ streamlit run dashboards/streamlit_medallion_app.py
 
 **The Problem:** Traditional ATS miss 75% of qualified candidates by relying on keyword matching. Critical for emerging roles like Agentic AI Engineering where standardized descriptions don't exist.
 
-**The Solution:** Production-ready multi-agent system that performs deep semantic analysis to understand candidate qualifications holistically.
+**The Solution:** Production-ready multi-agent system powered by LLMs that performs deep semantic analysis to understand candidate qualifications holistically through natural language reasoning.
 
 #### 🤖 5-Agent Architecture
 
@@ -189,28 +178,30 @@ streamlit run dashboards/streamlit_medallion_app.py
 
 **📄 Parser Agent**
 
-Intelligent resume extraction
+LLM-powered extraction
 - PDF/DOCX/TXT support
-- LLM-powered parsing
+- Intelligent parsing
 - Structured JSON output
+- Context understanding
 
 </td>
 <td width="20%">
 
 **🧠 Semantic Analyzer**
 
-Deep understanding
+Deep NLP understanding
 - Sentence embeddings
 - Semantic similarity
 - Synonym recognition
 - Vector storage (Qdrant)
+- Context-aware matching
 
 </td>
 <td width="20%">
 
 **🔧 Technical Evaluator**
 
-6 key areas for AI roles
+GenAI-powered assessment
 - LLM Expertise
 - Agent Frameworks
 - Tool Integration
@@ -223,22 +214,24 @@ Deep understanding
 
 **⭐ Experience Synthesizer**
 
-Quality over quantity
+Quality analysis with LLM
 - Project complexity
 - Impact assessment
 - Leadership indicators
 - Production experience
+- Natural language summaries
 
 </td>
 <td width="20%">
 
 **🎯 Orchestrator**
 
-Coordination & decisions
+Coordination & GenAI decisions
 - Parallel execution
 - Result aggregation
 - Natural language explanations
 - Actionable insights
+- Reasoning transparency
 
 </td>
 </tr>
@@ -269,30 +262,6 @@ Overall Score = Weighted Average of:
      - Leadership & innovation
 ```
 
-#### 🎨 Example Output
-```json
-{
-  "candidate_id": "candidate_1",
-  "overall_score": 0.756,
-  "breakdown": {
-    "agentic_capabilities": 0.82,
-    "technical_depth": 0.75,
-    "semantic_match": 0.68,
-    "experience_quality": 0.71
-  },
-  "strengths": [
-    "Strong agentic AI: Built production chatbot with LangChain + tool use",
-    "Technical expertise: Agent Frameworks, Tool Integration, Planning",
-    "Production experience: Deployed multi-agent systems at scale"
-  ],
-  "gaps": [
-    "Limited vector DB experience",
-    "No mention of orchestration patterns"
-  ],
-  "reasoning": "Candidate demonstrates strong agentic AI capabilities with concrete production evidence. Technical depth is solid across most key areas. Semantic match shows highly relevant experience. Recommend for interview based on agent-building background."
-}
-```
-
 #### 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -304,46 +273,26 @@ Overall Score = Weighted Average of:
 ![Llama](https://img.shields.io/badge/Llama_3.1-0467DF?style=flat&logoColor=white)
 ![Mistral](https://img.shields.io/badge/Mistral-000000?style=flat&logoColor=white)
 
-#### 💡 Key Features
+#### 💡 Key GenAI Features
 
-- 🧠 **Context-Aware** - Understands "Built chatbot with tool use" = agentic experience
-- 🔒 **Privacy-First** - 100% local with Ollama, no API costs, GDPR compliant
-- ⚡ **Fast Processing** - 20-30s per candidate, 50+ candidates/min batch
-- 📊 **Explainable AI** - Detailed reasoning for every score
+- 🧠 **Context-Aware LLM Analysis** - Understands "built chatbot with tool use" equals agentic experience
+- 🔒 **Privacy-First Local LLMs** - 100% local with Ollama, no API costs, GDPR compliant
+- ⚡ **Fast LLM Processing** - 20-30s per candidate, 50+ candidates/min batch
+- 📊 **Explainable AI** - LLM generates detailed reasoning for every score
 - 🔧 **Production-Ready** - Error handling, health checks, monitoring
-- 🎯 **Specialized** - Optimized for Agentic AI engineering roles
-
-#### 🚀 Quick Start
-```bash
-# One-command deployment
-./setup.sh
-
-# Services start automatically:
-# ✓ Qdrant (vector DB) - port 6333
-# ✓ Ollama (LLM server) - port 11434
-# ✓ FastAPI backend - port 8000
-
-# Test the system
-curl http://localhost:8000/health
-
-# Upload resume and match
-curl -X POST "http://localhost:8000/api/candidates/upload" \
-  -F "file=@resume.pdf" -F "candidate_name=John Doe"
-
-curl -X POST "http://localhost:8000/api/match" \
-  -H "Content-Type: application/json" \
-  -d '{"job_id": "job_1", "top_k": 10}'
-```
+- 🎯 **Specialized for AI Roles** - Optimized for Agentic AI, LLM engineering positions
+- 💬 **Natural Language Summaries** - Human-readable explanations of candidate fit
 
 #### 📈 Performance Metrics
 
 | Metric | Achievement |
 |--------|-------------|
-| **Processing Time** | 20-30s per candidate |
+| **LLM Processing Time** | 20-30s per candidate |
 | **Semantic Search** | <500ms for 10K+ candidates |
 | **Batch Processing** | 50+ candidates/min |
 | **Privacy** | 100% local, zero API calls |
-| **Accuracy** | 94% correlation with human reviewers |
+| **Accuracy vs Humans** | 94% correlation with human reviewers |
+| **Explainability** | Every score includes natural language reasoning |
 
 #### 💼 Use Cases
 
@@ -351,7 +300,9 @@ curl -X POST "http://localhost:8000/api/match" \
 - 🏢 HR agencies specializing in technical recruitment
 - 📊 High-volume hiring needs (100+ applications)
 - 🌈 Diversity-focused recruiting (reduces keyword bias)
-- 🎯 Emerging roles (Agentic AI, LLM Engineers)
+- 🎯 Emerging roles (Agentic AI, LLM Engineers, GenAI specialists)
+
+[🔗 View Full Project Details](https://github.com/akashs101199/intelligent-ats)
 
 </details>
 
@@ -373,7 +324,7 @@ curl -X POST "http://localhost:8000/api/match" \
 
 **The Problem:** Developers spend 35% of their time navigating codebases, running grep searches, and mentally mapping dependencies instead of writing new code.
 
-**The Solution:** Conversational AI assistant using RAG that enables natural language exploration - ask questions and get instant, contextual answers.
+**The Solution:** Conversational AI assistant using advanced RAG (Retrieval-Augmented Generation) that enables natural language exploration - ask questions in plain English and get instant, contextual answers powered by LLMs.
 
 #### 🏗️ RAG Architecture
 ```
@@ -382,26 +333,31 @@ User Query: "Show me all database connection logic"
 [1] Query Understanding (LLM)
     • Intent detection & entity extraction
     • Query expansion for better recall
+    • Semantic understanding of developer intent
        ↓
 [2] Vector Search (Semantic Retrieval)
     • Generate query embedding (384-dim)
     • Search ChromaDB/FAISS
     • Retrieve top-K code chunks (K=5-10)
+    • Re-ranking for relevance
        ↓
 [3] Context Assembly
     • Relevant code snippets
     • Metadata (file, line, function)
     • Docstrings & comments
+    • Related context enrichment
        ↓
 [4] LLM Response Generation (RAG Chain)
     • Context + Query → Mistral/CodeLlama
     • Natural language explanation
     • Code examples with syntax highlighting
+    • Cross-references and suggestions
        ↓
 [5] Formatted Response
     • Plain English explanation
     • Code snippets with highlighting
     • Links to source files
+    • Related suggestions
 ```
 
 #### 🎯 Core Capabilities
@@ -412,76 +368,48 @@ User Query: "Show me all database connection logic"
 
 **🔍 Semantic Code Search**
 
-Natural language queries
-- *"Show me error handling"*
-- *"Find database connections"*
-- *"Where is user auth?"*
-
-Finds logic without exact keywords
+LLM-powered queries
+- Natural language questions
+- Finds logic without exact keywords
+- Semantic understanding
+- Multi-file context awareness
 
 </td>
 <td width="33%">
 
 **💬 Conversational Exploration**
 
-Multi-turn with context
-```
-You: "What does authenticate_user do?"
-AI:  "Validates credentials..."
-You: "Where is it called?"
-AI:  "3 places: login, API, admin..."
-```
+Multi-turn with LLM context
+- Follow-up questions
+- Context retention
+- Natural conversation flow
+- Clarification requests
 
 </td>
 <td width="34%">
 
 **📚 Auto-Documentation**
 
-Generates explanations
+GenAI generates explanations
 - Complex code blocks
 - Module relationships
 - File purposes
 - Business logic flows
+- Architecture insights
 
 </td>
 </tr>
 </table>
 
-#### 🧠 Advanced Features
+#### 🧠 Advanced GenAI Features
 
-- **🎨 Code Understanding** - Explains code in business terms
-- **🔍 Pattern Detection** - Identifies design patterns & anti-patterns
-- **🌊 Data Flow Tracing** - Follows data through functions
+- **🎨 Code Understanding** - LLM explains code in business terms
+- **🔍 Pattern Detection** - Identifies design patterns & anti-patterns using AI
+- **🌊 Data Flow Tracing** - Follows data through functions with semantic analysis
 - **🔐 Privacy-First** - Runs locally with Ollama, code never leaves machine
 - **🌐 Multi-Language** - Python, JavaScript, Java, C++, Go, Rust
-
-#### 💡 Example Conversations
-
-**Example 1: Understanding Authentication**
-```
-You: "What does the user authentication function do?"
-AI:  "The authenticate_user() function in auth.py validates user 
-      credentials against the database using bcrypt for password 
-      hashing. It returns a JWT token on success or raises 
-      InvalidCredentialsError on failure."
-
-You: "Where is it called?"
-AI:  "It's called in 3 places:
-      1. routes/auth.py:45 - Login endpoint
-      2. middleware/api_auth.py:23 - API authentication
-      3. admin/views.py:67 - Admin panel login"
-```
-
-**Example 2: Debugging**
-```
-You: "Where could a NullPointerException happen in the user service?"
-AI:  "Potential NPE locations found:
-      1. UserService.java:45 - user.getName() without null check
-      2. UserService.java:89 - Optional.get() without isPresent()
-      3. UserRepository.java:34 - Missing @NotNull validation
-      
-      Recommendation: Add null checks or use Optional.ofNullable()"
-```
+- **💡 Intelligent Suggestions** - LLM recommends improvements and best practices
+- **📖 Natural Language Docs** - Auto-generates human-readable documentation
 
 #### 🛠️ Tech Stack
 
@@ -494,32 +422,16 @@ AI:  "Potential NPE locations found:
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logoColor=white)
 
-#### 🚀 Quick Start
-```bash
-# 1. Clone and install
-git clone https://github.com/akashs101199/ask-my-code-gen-ai.git
-cd ask-my-code-gen-ai
-pip install -r requirements.txt
-
-# 2. Pull LLM model
-ollama pull mistral:7b  # or codellama:7b
-
-# 3. Index your codebase (one-time)
-python scripts/index_codebase.py --path /path/to/your/project
-
-# 4. Start chatting!
-streamlit run app.py
-```
-
 #### 📊 Performance Metrics
 
 | Metric | Achievement |
 |--------|-------------|
-| **Recall Accuracy** | 99% - Finds relevant code |
-| **Response Time** | <1 second for 100K+ docs |
-| **Index Efficiency** | 10MB per 100K lines |
-| **Multi-Language** | 6+ languages supported |
-| **Context Retention** | Full conversation history |
+| **Recall Accuracy** | 99% - LLM-powered retrieval finds relevant code |
+| **Response Time** | <1 second for 100K+ docs with vector search |
+| **Index Efficiency** | 10MB per 100K lines optimized embeddings |
+| **Multi-Language** | 6+ languages with semantic understanding |
+| **Context Retention** | Full conversation history with LLM memory |
+| **Natural Language** | Human-like explanations powered by GenAI |
 
 #### 🎯 Use Cases
 
@@ -528,20 +440,20 @@ streamlit run app.py
 <td width="50%">
 
 **👨‍💻 For Developers**
-- Onboarding to new codebases
-- Understanding legacy code
-- Finding specific implementations
-- Debugging and troubleshooting
-- Code review assistance
+- Onboarding to new codebases with AI guidance
+- Understanding legacy code through LLM explanations
+- Finding specific implementations semantically
+- Debugging with AI assistance
+- Code review with GenAI insights
 
 </td>
 <td width="50%">
 
 **🏢 For Teams**
-- Knowledge sharing
-- Documentation generation
+- Knowledge sharing through conversational AI
+- Auto-generated documentation
 - Code architecture understanding
-- Refactoring planning
+- Refactoring planning with AI suggestions
 - Technical debt assessment
 
 </td>
@@ -550,11 +462,13 @@ streamlit run app.py
 
 #### 💼 Business Value
 
-- **50% faster onboarding** for new developers
-- **Reduced code review time** by 30%
-- **Better documentation** auto-generated
+- **50% faster onboarding** for new developers using AI assistance
+- **Reduced code review time** by 30% with GenAI insights
+- **Better documentation** auto-generated by LLMs
 - **Knowledge retention** even when developers leave
-- **Improved code quality** through better understanding
+- **Improved code quality** through AI-powered understanding
+
+[🔗 View Full Project Details](https://github.com/akashs101199/ask-my-code-gen-ai) | [🎮 Try Live Demo](https://ask-my-code.streamlit.app)
 
 </details>
 
@@ -590,19 +504,21 @@ streamlit run app.py
 <tr>
 <td width="50%">
 
-#### 🤖 Multi-Agent Platform
+#### 🤖 Multi-Agent Platform (GenAI)
 - 4-Agent Enterprise System (AgentCore + MCP)
 - **75% latency reduction** (8s → 2s)
-- **99% intent accuracy**
+- **99% intent accuracy** with LLM classification
 - Sub-3s recursive query resolution
 - Production deployment for 5+ enterprise clients
+- Natural language understanding at scale
 
-#### 🎙️ Voice-First Analytics
+#### 🎙️ Voice-First Analytics (GenAI)
 - Amazon Nova Sonic integration
 - **<300ms end-to-end latency**
 - **50+ concurrent voice sessions**
-- Real-time semantic understanding
+- Real-time LLM semantic understanding
 - Natural language to dashboard generation
+- Voice-activated data queries
 
 </td>
 <td width="50%">
@@ -613,6 +529,7 @@ streamlit run app.py
 - **99.7% data freshness SLA**
 - **99%+ test coverage**
 - Real-time CDC with <5min latency
+- LLM-powered data quality monitoring
 
 #### 🔍 Semantic Search & RAG
 - Bedrock Titan Embeddings + Vector DB
@@ -620,16 +537,19 @@ streamlit run app.py
 - **10x query performance** improvement
 - 5-minute ETL caching layer
 - Hybrid search (dense + sparse)
+- Context-aware retrieval
 
 </td>
 </tr>
 </table>
 
-#### 📊 AI Dashboard Generation
+#### 📊 AI Dashboard Generation (GenAI)
 - NLP → Interactive Dashboards in **<30 seconds**
 - **98% performance improvement** (15min → 30s)
+- LLM-powered natural language to SQL
 - QuickSight/Tableau auto-generation
 - Intelligent caching & orchestration
+- Conversational analytics interface
 
 </details>
 
@@ -655,12 +575,12 @@ streamlit run app.py
 ## 🛠️ Technical Arsenal
 
 <details open>
-<summary><b>🤖 Agentic AI & LLM Systems</b></summary>
+<summary><b>🤖 Generative AI & Agentic Systems</b></summary>
 <br/>
 
 <table>
 <tr>
-<td><b>Models</b></td>
+<td><b>LLM Models</b></td>
 <td>
   <img src="https://img.shields.io/badge/Amazon_Nova-FF9900?style=flat&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Claude_3.x-8B5CF6?style=flat&logoColor=white"/>
@@ -671,7 +591,7 @@ streamlit run app.py
 </td>
 </tr>
 <tr>
-<td><b>Orchestration</b></td>
+<td><b>Agent Orchestration</b></td>
 <td>
   <img src="https://img.shields.io/badge/AWS_Bedrock-FF9900?style=flat&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangChain-121212?style=flat&logoColor=white"/>
@@ -682,7 +602,7 @@ streamlit run app.py
 </td>
 </tr>
 <tr>
-<td><b>Vector DBs</b></td>
+<td><b>Vector Databases (RAG)</b></td>
 <td>
   <img src="https://img.shields.io/badge/FAISS-00ADD8?style=flat"/>
   <img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat"/>
@@ -691,8 +611,8 @@ streamlit run app.py
 </td>
 </tr>
 <tr>
-<td><b>Patterns</b></td>
-<td>Multi-agent coordination • Tool integration • Function calling • Chain-of-thought • RAG • Prompt engineering</td>
+<td><b>GenAI Patterns</b></td>
+<td>Multi-agent coordination • Tool integration • Function calling • Chain-of-thought • RAG • Prompt engineering • Semantic search • LLM orchestration</td>
 </tr>
 </table>
 
@@ -755,13 +675,14 @@ streamlit run app.py
 <tr>
 <td width="50%">
 
-### 🤝 Multi-Agent Systems
+### 🤝 Multi-Agent Systems (GenAI)
 - Agent role definition & responsibility separation
-- Tool integration & function calling APIs
+- LLM-powered tool integration & function calling
 - Inter-agent communication patterns
 - Response aggregation & conflict resolution
 - Failure handling & retry strategies
 - State management across agents
+- Natural language coordination
 
 ### ⚡ Real-Time Data Processing
 - Event streaming architecture (Kafka, Kinesis)
@@ -774,13 +695,14 @@ streamlit run app.py
 </td>
 <td width="50%">
 
-### 🔍 RAG & Semantic Search
+### 🔍 RAG & Semantic Search (GenAI)
 - Embedding model selection & fine-tuning
 - Vector database indexing (HNSW, IVF, FLAT)
 - Chunking & token window optimization
-- Query rewriting & expansion techniques
+- Query rewriting & expansion with LLMs
 - Context relevance scoring & re-ranking
 - Hybrid search (dense + sparse)
+- LLM-powered retrieval augmentation
 
 ### 🚀 Performance Optimization
 - Query plan analysis & index optimization
@@ -788,7 +710,7 @@ streamlit run app.py
 - Distributed join optimization
 - Parallelization & concurrency patterns
 - Memory management at scale
-- Cost optimization techniques
+- Cost optimization for LLM inference
 
 </td>
 </tr>
@@ -799,13 +721,14 @@ streamlit run app.py
 ## 🎨 Additional Notable Projects
 
 <details>
-<summary><b>🤖 AI Scheduler Chat Bot - Multi-Agent Scheduling System</b></summary>
+<summary><b>🤖 AI Scheduler Chat Bot - Multi-Agent Scheduling System (GenAI)</b></summary>
 <br/>
 
 | Component | Details |
 |-----------|---------|
 | **Stack** | ![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat) ![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-FF9900?style=flat&logo=amazon-aws&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) |
-| **Architecture** | 4-agent system: Intent classifier → Availability checker → Conflict resolver → Orchestrator |
+| **Architecture** | 4-agent system: LLM Intent classifier → Availability checker → Conflict resolver → Orchestrator |
+| **GenAI Features** | Natural language understanding • Multi-turn conversations • Context retention • LLM-powered decisions |
 | **Performance** | 94% booking accuracy • <500ms response time • Multi-turn context retention |
 | **Impact** | Handles 100+ daily appointments • 85% reduction in scheduling conflicts |
 
@@ -855,14 +778,14 @@ streamlit run app.py
 
 | Metric | Impact | Context |
 |--------|--------|---------|
-| 🚀 **Latency Reduction** | 8s → 2s **(75% ↓)** | Multi-agent system optimization |
+| 🚀 **Latency Reduction** | 8s → 2s **(75% ↓)** | Multi-agent LLM system optimization |
 | 💰 **Cloud Cost Savings** | **30% ↓** | AWS migration + optimization |
-| ⚡ **Dashboard Generation** | 15min → 30s **(98% ↓)** | AI-powered analytics |
-| 🎯 **Intent Accuracy** | **99%** | Agentic AI classification |
-| 📈 **Data Freshness SLA** | **99.7%** | Real-time pipeline |
-| 🛡️ **Incident Reduction** | **60% ↓** | Quality validation framework |
+| ⚡ **Dashboard Generation** | 15min → 30s **(98% ↓)** | LLM-powered analytics |
+| 🎯 **Intent Accuracy** | **99%** | Agentic AI classification with LLMs |
+| 📈 **Data Freshness SLA** | **99.7%** | Real-time pipeline with GenAI monitoring |
+| 🛡️ **Incident Reduction** | **60% ↓** | AI-powered validation framework |
 | 🔄 **Processing Throughput** | **10M records/day** | Event-driven ETL |
-| 🔍 **RAG System Accuracy** | **94%** | Semantic search performance |
+| 🔍 **RAG System Accuracy** | **94%** | Semantic search with LLM retrieval |
 
 </div>
 
@@ -914,9 +837,9 @@ streamlit run app.py
 Current Explorations:
   - Agentic AI Patterns: Multi-agent coordination, tool integration, state management
   - LLM Optimization: Prompt engineering, fine-tuning, context window management
-  - RAG Systems: Hybrid search, re-ranking, chunking strategies
-  - Data Engineering: Stream processing, medallion architecture, data quality
-  - Production ML: Model serving, monitoring, A/B testing, feature stores
+  - RAG Systems: Hybrid search, re-ranking, chunking strategies, semantic retrieval
+  - GenAI Production: Model serving, monitoring, A/B testing, cost optimization
+  - Voice AI: Real-time speech processing, conversational interfaces
 ```
 
 ---
@@ -927,7 +850,7 @@ Current Explorations:
 
 ### 🎯 Open to Opportunities
 
-**Seeking:** Senior AI/ML Engineer • Agentic AI Architect • MLOps Engineer • LLM Systems Engineer
+**Seeking:** Senior Agentic AI Engineer • GenAI Architect • LLM Systems Engineer • MLOps Engineer
 
 **Format:** Full-time • Contract • Consulting • Collaborative Projects
 
