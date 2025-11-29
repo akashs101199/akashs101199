@@ -477,17 +477,13 @@ GenAI generates explanations
 ## 📊 GitHub Stats & Activity
 
 <div align="center">
-
 <!-- GitHub Stats Cards -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=akashs101199&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashs101199&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=akashs101199&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashs101199&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 <!-- GitHub Streak Stats -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=akashs101199&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=akashs101199&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-
+<!-- Activity Graph (shows all repo activity) -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=akashs101199&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph%20(All%20Activity)" alt="Contribution Graph" />
 </div>
 
 ---
